@@ -21,3 +21,7 @@
 - You're not limited to serving dummy text as a response - you can serve files as well.
 - You can `sendFile()s` to your users - e.g. to serve HTML files.
 - If a request is directly made for a file (e.g. a .css file is requested), you can enable serving static files with `express.static()`.
+
+## Useful Resources & Links
+
+- [Express.js Official Docs](https://expressjs.com/en/starter/installing.html)

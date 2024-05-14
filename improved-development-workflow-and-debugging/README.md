@@ -26,3 +26,7 @@ Syntax and runtime errors throw (helpful) error messages (with line numbers) whi
 - Analyze variable values at runtime.
 - Look into (and manipulate) variables at runtime.
 - Set breakpoints cleverly (e.g. respect the async/event-driven nature).
+
+## Useful Resources & Links
+
+- [Node.js Debugger](https://nodejs.org/en/docs/guides/debugging-getting-started/)
